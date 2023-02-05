@@ -32,6 +32,7 @@ TOEIC（670点）
 # 知財塾. 
 ● マーケ・プロモーションを担当. 
 ● 成果物. 
+
 　・知財塾 60秒PR動画　https://www.youtube.com/watch?v=2szM5G2GarU. 
 　・知財塾 30秒PR動画 https://www.youtube.com/watch?v=ESNFGv-D8OM. 
  
