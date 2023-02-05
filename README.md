@@ -46,10 +46,10 @@ TOEIC（670点）
 ● 全社規模のプロジェクトテーマのシーズ抽出と用途探索  
 ● 自然言語処理を活用したビジネスインテリジェンス研究  
 　○成果物  
- 　・テキストマイニングによる効率的な技術課題・解決手段の抽出手法の検討   
-  　https://www.jstage.jst.go.jp/article/jkg/72/1/72_29/_article/-char/ja/  
-   ・ESG・SDGsに関する開示と特許出願・企業業績に関する定量評価 － 化学業界 の #有価証券報告書を例に　　  
-   　https://www.ipaj.org/workshop/2022/pdfs/ippan20221105.pdf  
+ ・テキストマイニングによる効率的な技術課題・解決手段の抽出手法の検討   
+  https://www.jstage.jst.go.jp/article/jkg/72/1/72_29/_article/-char/ja/  
+ ・ESG・SDGsに関する開示と特許出願・企業業績に関する定量評価 － 化学業界 の #有価証券報告書を例に　　  
+  https://www.ipaj.org/workshop/2022/pdfs/ippan20221105.pdf  
  
  
 ## 知財塾. 
